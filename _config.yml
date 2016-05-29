@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               FacePlantBook
+tagline:             'Ministry of Distopia'
+description:         'Adventures in Distopia.'
+url:                 http://faceplantbook.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              anonymous
+  url:
+  email:
+
+# Custom vars
+version:             1.0.0
+
+# Plugins
+gems: [jekyll-paginate]
+
+paginate: 5
+paginate_path: "/blog/page:num/"
