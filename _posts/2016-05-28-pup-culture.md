@@ -4,6 +4,8 @@ title: Bloody Insane - Pup Culture
 published: true
 ---
 
+<img src="http://i.imgur.com/cZG9F5m.jpg" />
+
 [We are the Last Men if our culture is capable of producing something like this.....note the sympathetic tone of the article...](https://www.theguardian.com/tv-and-radio/2016/may/25/secret-life-of-the-human-pups-the-men-who-live-as-dogs?CMP=twt_gu)
 
 They've been flooding social media with these dog stories.  Weirdly all of a sudden the too. There was just one about a man/goat, but I'm loathe to add this to my google search history to show you.  He grazed in the hills.
