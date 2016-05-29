@@ -7,8 +7,8 @@ permalink:           pretty
 title:               FacePlantBook
 tagline:             'Ministry of Distopia'
 description:         'Adventures in Distopia.'
-url:                 http://faceplantbook.com
-baseurl:             ''
+url:                 https://apollokid.github.io
+baseurl:             'https://apollokid.github.io/faceplantbook'
 paginate:            5
 
 # About/contact
